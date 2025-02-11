@@ -19,7 +19,7 @@
 1. **Sorting algorithms and their complexities** 
    - Merge Sort, Quick Sort, Heap Sort
    - Lower bound for comparison based sorting with the proof
-   - Count sort, Radix sort
+   - Count sort
    - Complexity analysis
 2. **Order Statistics** 
    - Definition of k-th order statistic, brute force methods
