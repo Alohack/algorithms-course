@@ -29,6 +29,7 @@
 3. **Other divide and conquer algorithms**
    - Binary search
    - Finding zeros of a given function
+   - Maximum subarray problem
    - Closest pair of points on a plain, complexity analysis, brute force vs divide and conquer
    - Complexity analysis
 4. **Brute force method**
