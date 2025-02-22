@@ -28,8 +28,7 @@
    - Median of medians algorithm, usage in QuickSelect and QuickSort, complexity analysis
 3. **Other divide and conquer algorithms, brute force vs divide and conquer**
    - Binary search
-   - Finding zeros of a given function
-   - Maximum subarray problem
+   - Bread-Pitt stocks problem, Maximum subarray problem
    - Closest pair of points on a plain
    - Complexity analysis
 4. **Brute force method**
