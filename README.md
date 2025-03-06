@@ -24,7 +24,7 @@
 2. **Order Statistics** 
    - Definition of k-th order statistic, brute force methods
    - Using Heap for k-th order statistic computation, complexity analysis
-   - Quickselect, complexity analysis, comparison with heap method
+   - QuickSelect, complexity analysis, comparison with heap method
    - Median of medians algorithm, usage in QuickSelect and QuickSort, complexity analysis
 3. **Other divide and conquer algorithms, brute force vs divide and conquer**
    - Binary search
