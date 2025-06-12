@@ -83,8 +83,3 @@
     - Prim's algorithm
     - Kruskal's algorithm
     - Complexity analysis and usage of Heap and Disjoint Sets
-  
-13. **Strongly connected components**
-    - Kosaraju's algorithm
-    - Tarjan's algorithm
-    - Complexity analysis
